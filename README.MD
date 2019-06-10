@@ -22,4 +22,4 @@ Techs:
   * docker-compose up --build
 
 
-More about on [ASP.NET Core & OWASP TOP 10 - Injection](https://www.brunobrito.net.br/aspnet-core-owasp-injection/) - Portuguese only
+More about on [.NET Core - Console Application com Docker](https://www.brunobrito.net.br/docker-console-application/) - Portuguese only
